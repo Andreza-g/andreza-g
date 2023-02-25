@@ -1,4 +1,6 @@
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Oiee,+sou+Andreza+Ribeiro;Sou+Desenvolvedora+Salesforce!;Bem+vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">
@@ -39,4 +41,4 @@
    <a href="https://trailblazer.me/id?lang=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"></a>   
 </div>
    
-   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
