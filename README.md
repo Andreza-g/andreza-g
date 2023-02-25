@@ -39,4 +39,3 @@
    <a href="https://trailblazer.me/id?lang=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"></a>   
 </div>
   
-![Snake animation](https://github.com/Andreza-g/andreza-g/blob/main/.github/workflows/main.yml)
