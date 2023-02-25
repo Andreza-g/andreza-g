@@ -29,7 +29,7 @@
   <img align="center" alt="Rafa-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="Rafa-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
 </div>
-<div align="center"><br>  
+<div align="center"><br><b> 
    Principais redes 👇
   
 </div>
