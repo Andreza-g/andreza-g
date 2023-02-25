@@ -40,5 +40,5 @@
     <a href="https://www.linkedin.com/in/andreza-gon%C3%A7alves-b69b95168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="https://trailblazer.me/id?lang=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"></a>   
 </div>
-   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+ <br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
